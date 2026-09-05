@@ -18,7 +18,7 @@
 
 ### ¿Por qué el agente de reflejo simple falla (o tiene suerte) en tu diseño?
 * El agente de reflejo simple falla en mi diseño porque al toparse con el primer hedor en la posición 3,1 se queda ciclado mientras ejecuta el proceso de movimiento que conoce. No hubo ninguna configuración donde no fallara.
-* Hice una prueba con otra configuración que lo lleva directo a tomar el oro, pero al toparse con una brisa, nuevamente se queda ciclado y no sale de la cueva, siempre va hacia adelante e izquierda y se cicla, el mundo configurado es: [Cueva fácil](project/config/arianna_classic_4x4_gold_asegurado.txt)
+* Hice una prueba con otra configuración que lo lleva directo a tomar el oro, pero al toparse con una brisa, nuevamente se queda ciclado y no sale de la cueva, siempre va hacia adelante e izquierda y se cicla, el mundo configurado es: [Cueva fácil](project/config/arianna_classic_4x4_gold_asegurado.yaml)
 
 ### ¿Cómo cambia el resultado del agente basado en modelo si acercas o alejas un pit de la casilla inicial?
 * El agente se quedó ciclado en la casilla 1,1 al acercar el pit. Inicialmente ningún P estaba cerca, pero al acercarlo, la casilla del agente quedó con Percept [Breeze] y eso hizo que se ciclara. De igual manera se cicla si alejo otros pits.
