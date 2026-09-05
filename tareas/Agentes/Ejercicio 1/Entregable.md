@@ -61,7 +61,7 @@ La cueva que me funcionó:
 
 Resultado de la ejecución: [Cueva difícil 4x4 con 1 wall ejecución](evidencias\reto_opcional\04_dificil_dispara.txt)
 
-Esta es una de las cuevas que confuguré y no funcionó, el agente se quedó ciclado:
+Esta es una de las cuevas que configuré y no funcionó, el agente se quedó ciclado:
 [Cueva difícil 4x4](project\config\mi_cueva_dificil_4x4_no_shoot.yaml)
 ```text
 4 | P  P  P  G
