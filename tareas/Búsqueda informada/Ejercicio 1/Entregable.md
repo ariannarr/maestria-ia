@@ -38,7 +38,7 @@ Heurística en ambos: distancia euclidiana a Eforie.
 
 ### 3. Reporte
 
-**¿A* encontró el camino de menos km? ¿Greedy coincidió o se desvió?**
+**¿A\* encontró el camino de menos km? ¿Greedy coincidió o se desvió?**
 
 Sí, A* encontró el camino de menos km (698 km). Greedy no coincidió, se desvió porque devolvió un camino de 730 km, o sea, 32 km más caro. Aunque el camino de Greedy tiene menos carreteras (6 vs 7 de A*) tener menos tramos no significa menos km.
 
