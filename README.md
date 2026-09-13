@@ -33,6 +33,7 @@ Las tareas se entregan los **sábados**.
 | Búsqueda no informada | Ejercicio 1 | [Entregable.md](tareas/B%C3%BAsqueda%20no%20informada/Ejercicio%201/Entregable.md) | Sábado 12 de septiembre de 2026 |
 | Perceptrón multicapa | Ejercicio 1 | [Entregable.md](tareas/Perceptr%C3%B3n%20multicapa/Entregable.md) | Sábado 12 de septiembre de 2026 |
 | Búsqueda informada | Ejercicio 1 | [Entregable.md](tareas/B%C3%BAsqueda%20informada/Ejercicio%201/Entregable.md) | Sábado 12 de septiembre de 2026 |
+| Visión computacional | Ejercicio 1 | [Entregable.md](tareas/Visi%C3%B3n%20computacional/Ejercicio%201/Entregable.md) | Sábado 12 de septiembre de 2026 |
 
 ## Tareas pendientes
 
@@ -40,5 +41,4 @@ Estas son las tareas que aún no cuentan con su reporte `Entregable.md`:
 
 | Tema | Ejercicio | Material relacionado | Fecha de entrega |
 |---|---|---|---|
-| Visión computacional | Ejercicio 1 | Operador de convolución (video) | Sábado 12 de septiembre de 2026 |
 | Clustering K-medias | Ejercicio 1 | Q-learning | Sábado 19 de septiembre de 2026 |
