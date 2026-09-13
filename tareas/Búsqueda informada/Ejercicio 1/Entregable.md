@@ -60,6 +60,7 @@ Sí. Mirando la tabla g/h/f de A*, f va: 513, 542, 580, 581, 595, 634, 676, 698.
 
 ```text
 Heuristic: Euclidean distance to Eforie (map coordinates)
+
   h(n)  city
       0  Eforie  <- goal
      64  Hirsova
@@ -93,6 +94,7 @@ Status:    success
 Path:      Oradea → Sibiu → Fagaras → Bucharest → Urziceni → Hirsova → Eforie
 Depth:     6 roads
 Cost:      730 km
+
   city                  g     h     f
   Oradea                   0   513   513
   Sibiu                  151   391   542
@@ -101,12 +103,13 @@ Cost:      730 km
   Urziceni               546   120   666
   Hirsova                644    64   708
   Eforie                 730     0   730
+
 Expanded:  6 nodes
 Generated: 18 nodes
 Frontier:  max size 7
 ```
 
-**A* — `ejecucion_04_a_star_search.txt`** (`python 04_a_star_search.py --from-city Oradea --to Eforie`)
+**A\* — `ejecucion_04_a_star_search.txt`** (`python 04_a_star_search.py --from-city Oradea --to Eforie`)
 
 ```text
 Algorithm: A* search
@@ -116,6 +119,7 @@ Status:    success
 Path:      Oradea → Sibiu → Rimnicu Vilcea → Pitesti → Bucharest → Urziceni → Hirsova → Eforie
 Depth:     7 roads
 Cost:      698 km
+
   city                  g     h     f
   Oradea                   0   513   513
   Sibiu                  151   391   542
@@ -125,6 +129,7 @@ Cost:      698 km
   Urziceni               514   120   634
   Hirsova                612    64   676
   Eforie                 698     0   698
+
 Expanded:  11 nodes
 Generated: 32 nodes
 Frontier:  max size 6
