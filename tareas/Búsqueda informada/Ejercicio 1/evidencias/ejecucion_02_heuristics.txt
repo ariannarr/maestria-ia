@@ -1,0 +1,23 @@
+Heuristic: Euclidean distance to Eforie (map coordinates)
+
+  h(n)  city
+      0  Eforie  <- goal
+     64  Hirsova
+    120  Urziceni
+    160  Vaslui
+    166  Bucharest
+    188  Giurgiu
+    231  Iasi
+    253  Pitesti
+    290  Neamt
+    301  Fagaras
+    309  Craiova
+    349  Rimnicu Vilcea
+    391  Sibiu
+    397  Mehadia
+    397  Drobeta
+    406  Lugoj
+    482  Timisoara
+    511  Arad
+    513  Zerind
+    513  Oradea  <- start

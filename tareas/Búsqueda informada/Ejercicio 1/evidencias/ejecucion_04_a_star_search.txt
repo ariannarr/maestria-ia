@@ -1,0 +1,21 @@
+Algorithm: A* search
+Problem:   Oradea → Eforie
+Heuristic: Euclidean distance to Eforie (map coordinates)
+Status:    success
+Path:      Oradea → Sibiu → Rimnicu Vilcea → Pitesti → Bucharest → Urziceni → Hirsova → Eforie
+Depth:     7 roads
+Cost:      698 km
+
+  city                  g     h     f
+  Oradea                   0   513   513
+  Sibiu                  151   391   542
+  Rimnicu Vilcea         231   349   580
+  Pitesti                328   253   581
+  Bucharest              429   166   595
+  Urziceni               514   120   634
+  Hirsova                612    64   676
+  Eforie                 698     0   698
+
+Expanded:  11 nodes
+Generated: 32 nodes
+Frontier:  max size 6

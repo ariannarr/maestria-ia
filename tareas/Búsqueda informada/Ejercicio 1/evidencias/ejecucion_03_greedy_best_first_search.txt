@@ -1,0 +1,20 @@
+Algorithm: Greedy best-first search
+Problem:   Oradea → Eforie
+Heuristic: Euclidean distance to Eforie (map coordinates)
+Status:    success
+Path:      Oradea → Sibiu → Fagaras → Bucharest → Urziceni → Hirsova → Eforie
+Depth:     6 roads
+Cost:      730 km
+
+  city                  g     h     f
+  Oradea                   0   513   513
+  Sibiu                  151   391   542
+  Fagaras                250   301   551
+  Bucharest              461   166   627
+  Urziceni               546   120   666
+  Hirsova                644    64   708
+  Eforie                 730     0   730
+
+Expanded:  6 nodes
+Generated: 18 nodes
+Frontier:  max size 7
