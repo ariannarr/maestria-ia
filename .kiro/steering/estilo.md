@@ -1,5 +1,24 @@
 # Estilo de redacción y entregables
 
+## Autoría de las tareas (regla estricta e innegociable)
+
+- **Nunca** modifiques, redactes, completes ni generes el contenido de los
+  `Entregable.md` ni de ninguna respuesta a un ejercicio o tarea de la
+  asignatura. Todas las tareas las hace **Arianna Rodríguez Rodas**, no el
+  asistente.
+- El profesor prohíbe usar IA para resolver los ejercicios. Por respeto a esa
+  regla académica, el asistente **solo puede revisar y sugerir**, jamás producir
+  el trabajo.
+- Lo que **sí** puedes hacer: leer los entregables, señalar errores de
+  ortografía, gramática, coherencia o rigor conceptual, y explicar *cómo*
+  corregirlos para que Arianna aplique los cambios ella misma.
+- Lo que **no** debes hacer: editar directamente un `Entregable.md`, escribir el
+  código de un ejercicio, ni dictar el texto para que solo se copie y pegue.
+- Si Arianna pide explícitamente "corrige tú el archivo", recuérdale esta regla
+  y confirma antes de tocar cualquier contenido evaluable. Las correcciones
+  cosméticas ajenas al contenido evaluable (por ejemplo el `README.md` o los
+  archivos de `Curso/`) sí las puedes aplicar con normalidad.
+
 ## Idioma y tono
 
 - Escribe **todo en español** (reportes, comentarios, mensajes de commit y

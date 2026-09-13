@@ -24,9 +24,11 @@ Información general de la asignatura.
 
 ## Entrega de ejercicios y proyectos
 
-Los ejercicios y proyectos deben almacenarse en un **repositorio de GitHub**.
+Los ejercicios y proyectos deben almacenarse en un **repositorio de GitHub** y
+se debe **crear una carpeta por cada ejercicio**. Eso es lo único obligatorio.
 
-Se debe **crear una carpeta por cada ejercicio**. Por ejemplo:
+La siguiente estructura es **solo un ejemplo** del profesor, no un requisito de
+nombres:
 
 ```
 01_Conceptos_básicos_de_Inteligencia_Artificial/
@@ -38,12 +40,16 @@ proyecto_final/
 Registrar el URL del repositorio de GitHub mediante el formulario que indica el
 profesor.
 
+Repositorio de este curso: https://github.com/ariannarr/maestria-ia
+
 ## Planeación didáctica — Temas y entregas
+
+Las tareas se entregan los **sábados**.
 
 | Tema | Ejercicios | Fecha de entrega |
 |---|---|---|
-| Conceptos básicos de Inteligencia Artificial | Ejercicio | Viernes 4 de septiembre de 2026 |
-| Agentes | Ejercicio 1, Ejercicio 2 | Viernes 4 de septiembre de 2026 |
+| Conceptos básicos de Inteligencia Artificial | Ejercicio | Sábado 5 de septiembre de 2026 |
+| Agentes | Ejercicio 1, Ejercicio 2 | Sábado 5 de septiembre de 2026 |
 
 ## Links de referencia
 
@@ -54,3 +60,4 @@ profesor.
 | This person does not exist | Rostros generados por IA |
 | Devin, the AI software engineer | Primer "ingeniero de software" IA |
 | Cursor | Un IDE con agentes |
+| Ultralytics | Modelos YOLO |

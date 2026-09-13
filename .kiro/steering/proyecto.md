@@ -7,8 +7,13 @@ Artificial** de la Facultad de Matemáticas (FMAT) de la **UADY**.
 - **Autora:** Arianna Rodríguez Rodas
 - **Profesor:** Dr. Víctor Uc Cetina
 - **Modalidad:** Presencial
+- **Repositorio:** https://github.com/ariannarr/maestria-ia
 - **Entrega:** Todo el trabajo vive en este repositorio de GitHub y funciona
   como portafolio digital evaluable.
+
+> **Regla de autoría:** el asistente nunca resuelve, redacta ni edita los
+> entregables ni el código de los ejercicios. Esas tareas las hace Arianna. El
+> asistente solo revisa y sugiere. Ver detalle en `estilo.md`.
 
 ## Estructura del repositorio
 
@@ -22,6 +27,11 @@ Artificial** de la Facultad de Matemáticas (FMAT) de la **UADY**.
     y las salidas en `evidencias/`.
 
 ## Convenciones de organización
+
+Lo único que el profesor exige es: usar un **repositorio de GitHub** y **crear
+una carpeta por cada ejercicio**. Los nombres tipo `01_...`, `02_Agentes/
+ejercicio_1/` que aparecen en la página del curso son solo un **ejemplo**, no un
+requisito. Las siguientes son las convenciones propias de este repositorio:
 
 - Crea **una carpeta por ejercicio**. No mezcles entregables de temas distintos.
 - El reporte principal de cada ejercicio se llama `Entregable.md`.

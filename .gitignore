@@ -1,0 +1,63 @@
+# ==========================================================
+# .gitignore — Maestría en IA (UADY)
+# Objetivo: ignorar temporales, cachés y secretos, pero
+# CONSERVAR todo lo que es entregable: Entregable.md, código
+# de project/, y evidencias (.png, .txt, logs de ejecución).
+# ==========================================================
+
+# --- Secretos y credenciales (NUNCA subir) ---
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+credentials.json
+
+# --- Python: cachés y bytecode ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Entornos virtuales de Python ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+
+# --- Datasets pesados / descargas (opcional) ---
+# Descomenta si llegas a descargar datasets grandes que no
+# quieras versionar (MNIST, imágenes, etc.).
+# data/
+# datasets/
+# *.zip
+# *.tar.gz
+
+# --- Modelos entrenados pesados (opcional) ---
+# Descomenta si guardas pesos de modelos grandes.
+# *.pt
+# *.pth
+# *.h5
+# *.ckpt
+
+# --- Sistema operativo ---
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+# macOS
+.DS_Store
+
+# --- Editores / IDEs ---
+# VS Code: se ignora la config personal, pero NO la de Kiro.
+.vscode/
+*.code-workspace
+
+# NOTA: la carpeta .kiro/ (steering, hooks) SÍ se versiona a
+# propósito, por eso no aparece aquí.
